@@ -1,2 +1,2 @@
 #!/bin/bash
-alias patsy="hello user"
+alias hello user="patsy"
